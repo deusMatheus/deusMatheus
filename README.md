@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/matheus-josé-de-deus-063b85183](linkedin.com/in/matheus-josé-de-deus-063b85183)
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
