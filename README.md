@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/matheus-josé-de-deus-063b85183](linkedin.com/in/matheus-josé-de-deus-063b85183)
 
-- 👾 Currently learning and looking for my first job experience in IT field. 
+- 👾 Always learning new skills and looking a job experience in IT field. 
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
