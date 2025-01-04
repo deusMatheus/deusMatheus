@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **deus.mj94@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/matheus-josé-de-deus-063b85183](linkedin.com/in/matheus-josé-de-deus-063b85183)
+- 📄 Know about my experiences [LinkedIn](linkedin.com/in/matheus-josé-de-deus-063b85183)
 
 - 👾 Always learning new skills and looking a job experience in IT field. 
 
